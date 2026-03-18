@@ -1,2 +1,2 @@
 ﻿# Task Tracker Project
-https://github.com/HaRin2806/task-tracker-cli-project/tree/main/python
+https://roadmap.sh/projects/task-tracker
